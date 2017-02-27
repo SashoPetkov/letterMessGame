@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles/reset.css">
+  <link href="https://fonts.googleapis.com/css?family=Fira+Mono|Neucha|Raleway:400,400i,700&amp;subset=cyrillic" rel="stylesheet">
+  <link rel="stylesheet" href="styles/style.css">
+  <title>Game_with_letters</title>
+</head>
+<body>
+  <div id="wrapper">
+    <h1>Guess the word</h1>
+    <div class="letterBoard">
+      <p>click start game!</p>
+    </div>
+    <form action="/">
+      <input type="submit" value="ANSWER">
+      <input type="text" placeholder="write your answer here" autofocus>
+    </form>
+    <div id="buttons">
+      <button class="showWord">see ANSWER</button>
+      <button class="startGame">new WORD!</button>
+      <button class="description">HINT1</button>
+      <button class="description">HINT2</button>
+    </div>
+    <h3></h3>
+    <div class="statistic">
+      <h2>Your attempt №: <span></span></h2>
+      <br>
+      <h2>You hit it from: <span></span></h2>
+      <br>
+      <h2>Your score:<span class="score"></span></h2>
+    </div>
+  </div>
+  <script src="script_and_DB/script.js"></script>
+</body>
+</html>

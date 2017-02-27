@@ -1,0 +1,227 @@
+{
+  "myWords": [
+    {
+      "word" : "слон",
+      "desc" : "африканско животно",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/African_Bush_Elephant.jpg/240px-African_Bush_Elephant.jpg"
+    },
+    {
+      "word" : "жираф",
+      "desc" : "животно с издължен врат",
+      "url" : "https://beastra.files.wordpress.com/2012/09/giraffe.jpg"
+    },
+    {
+      "word" : "хипопотам",
+      "desc" : "едро агресивно африканско животно",
+      "url" : "http://www.trafic-bg.com/admin/images/hipopotam.jpg"
+    },
+    {
+      "word" : "крокодил",
+      "desc" : "животно типично за р.Нил",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Crocodylus_acutus_mexico_02.jpg/240px-Crocodylus_acutus_mexico_02.jpg"
+    },
+    {
+      "word" : "котка",
+      "desc" : "домашно животно",
+      "url" : "http://static.framar.bg/filestore/vazpitanie-na-domashnata-kotka-1-framar.jpg"
+    },
+    {
+      "word" : "лисица",
+      "desc" : "животно типично за българските ширини",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fox_study_6.jpg/240px-Fox_study_6.jpg"
+    },
+    {
+      "word" : "колибри",
+      "desc" : "най-малката птица",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Colibri-thalassinus-001.jpg/200px-Colibri-thalassinus-001.jpg"
+    },
+    {
+      "word" : "щраус",
+      "desc" : "едра птица, която не лети",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Autruche_male,_r%C3%A9serve_africaine_de_Sigean.jpg/220px-Autruche_male,_r%C3%A9serve_africaine_de_Sigean.jpg"
+    },
+    {
+      "word" : "тасманийски дявол",
+      "desc" : "животно от остров под австралия",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sarcophilus_harrisii_taranna.jpg/240px-Sarcophilus_harrisii_taranna.jpg"
+    },
+    {
+      "word" : "мармот",
+      "desc" : "животно от разред гризачи",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Marmot-edit1.jpg/240px-Marmot-edit1.jpg"
+    },
+    {
+      "word" : "бенгалски тигър",
+      "desc" : "азиатски тигър",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tiger_in_Ranthambhore.jpg/240px-Tiger_in_Ranthambhore.jpg"
+    },
+    {
+      "word" : "язовец",
+      "desc" : "животно",
+      "url" : "http://oragie.dir.bg/_files/t5_4190760.jpg"
+    },
+    {
+      "word" : "пъдпъдък",
+      "desc" : "птица, дивеч",
+      "url" : "http://ebox.nbu.bg/loventurizam/img/birds/ppd01.jpg"
+    },
+    {
+      "word" : "лешояд",
+      "desc" : "граблива птица - сем.Ястреби",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Gyps_fulvus_-_01.jpg/220px-Gyps_fulvus_-_01.jpg"
+    },
+    {
+      "word" : "прасе",
+      "desc" : "животно отглеждано за месо",
+      "url" : "http://blogatstvo.com/wp-content/uploads/2011/04/DirtyPig.jpg"
+    },
+    {
+      "word" : "чинчила",
+      "desc" : "животно от Южна Америка",
+      "url" : "http://gradcontent.com/lib/500x350/chinchili-photo1.jpg"
+    },
+    {
+      "word" : "саргос",
+      "desc" : "соленоводна риба",
+      "url" : "http://sualtiavi.com/wp/wp-content/uploads/2011/10/sargos.jpg"
+    },
+    {
+      "word" : "алпака",
+      "desc" : "далечен роднина на ламата",
+      "url" : "http://delo.bg/wp-content/uploads/2015/11/Alpaca-Breeders.jpg"
+    },
+    {
+      "word" : "анколе-ватуси",
+      "desc" : "разновидност на биковете",
+      "url" : "http://www.zoomania.org/wp-content/uploads/2014/03/nay-rogatiyat-bik-v-sveta.jpg"
+    },
+    {
+      "word" : "ашолотъл",
+      "desc" : "тигров саламандър",
+      "url" : "http://thestrangest.weebly.com/uploads/1/7/1/1/17111402/5813924.jpg"
+    },
+    {
+      "word" : "нарвал",
+      "desc" : "китоподобно животно",
+      "url" : "http://chudesa.net/wp-content/uploads/2010/08/narval.jpg"
+    },
+    {
+      "word" : "птицечовка",
+      "desc" : "еднопроходен бозайник",
+      "url" : "https://cdn2.amcn.in/5040f06cb2urn-jpg-253-193-cc-dri-h4jhdvk5pi.jpg"
+    },
+    {
+      "word" : "джуджевидна мармозетка",
+      "desc" : "най-малката маймуна",
+      "url" : "http://www.novini.bg/uploads/news_pictures/2014-24/main/shestoto-masovo-izmirane-na-vidove-225764.jpg"
+    },
+    {
+      "word" : "ленивец",
+      "desc" : "едно от най-бавните животни",
+      "url" : "http://miau.bg/files/lib/600x350/sloth-lenivec3.jpg"
+    },
+    {
+      "word" : "смок",
+      "desc" : "вид змия",
+      "url" : "http://3.bp.blogspot.com/_ZRei7QgK1AM/Smrei4kL2QI/AAAAAAAArHk/LPFBuOxKgxE/s400/slepok.jpg"
+    },
+    {
+      "word" : "медуза",
+      "desc" : "морско животно",
+      "url" : "http://avtora.com/uploads/images/content/articles/2008/deadly_animals/jellyfish_01.JPG"
+    },
+    {
+      "word" : "лъв",
+      "desc" : "животно от Африка",
+      "url" : "http://avtora.com/uploads/images/content/articles/2008/deadly_animals/lion_01.jpg"
+    },
+    {
+      "word" : "пчела",
+      "desc" : "насекомо",
+      "url" : "http://avtora.com/uploads/images/content/articles/2008/deadly_animals/bee_01.JPG"
+    },
+    {
+      "word" : "бик",
+      "desc" : "едро рогато животно",
+      "url" : "http://avtora.com/uploads/images/content/articles/2008/deadly_animals/cape_buffalo_01.jpg"
+    },
+    {
+      "word" : "скорпион",
+      "desc" : "отровно животно",
+      "url" : "http://avtora.com/uploads/images/content/articles/2008/deadly_animals/scorpion_01.jpg"
+    },
+    {
+      "word" : "змия",
+      "desc" : "пълзящо животно",
+      "url" : "http://avtora.com/uploads/images/content/articles/2008/deadly_animals/snake_01.JPG"
+    },
+    {
+      "word" : "комар",
+      "desc" : "жилещо насекомо",
+      "url" : "http://avtora.com/uploads/images/content/articles/2008/deadly_animals/mosquito_01.JPG"
+    },
+    {
+      "word" : "вълк",
+      "desc" : "типично за България животно",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Canis_lupus_laying.jpg/250px-Canis_lupus_laying.jpg"
+    },
+    {
+      "word" : "чакал",
+      "desc" : "подобно на вълк животно",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Black_Backed_Jackal_Masaai_Mara_April_2008.JPG/240px-Black_Backed_Jackal_Masaai_Mara_April_2008.JPG"
+    },
+    {
+      "word" : "белка",
+      "desc" : "животно от семейство порови",
+      "url" : "http://www.vestnikataka.bg/wp-content/uploads/2015/05/1142.jpg"
+    },
+    {
+      "word" : "катерица",
+      "desc" : "животно, което живее на дърветата",
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/MattiParkkonen_Orava.jpg/240px-MattiParkkonen_Orava.jpg"
+    },
+    {
+      "word" : "папагал",
+      "desc" : "многоцветно животно",
+      "url" : "http://cache1.mila.bg/Images/cache/654/Image_5286654_128_0.jpg"
+    },
+    {
+      "word" : "костенурка",
+      "desc" : "бавно животно",
+      "url" : "http://div.bg/pictures/1261757_595_.jpg"
+    },
+    {
+      "word" : "сайга",
+      "desc" : "застрашен вид антилопа",
+      "url" : "http://div.bg/pictures/1295529_1024_.jpg"
+    },
+    {
+      "word" : "нумбат",
+      "desc" : "животно м/у мравояд и катерица",
+      "url" : "http://div.bg/pictures/1295530_1024_.jpg"
+    },
+    {
+      "word" : "геренук",
+      "desc" : "африканско животно с врат, като жираф",
+      "url" : "http://div.bg/pictures/1295542_1024_.jpg"
+    },
+    {
+      "word" : "байджи",
+      "desc" : "Китайски речен делфин",
+      "url" : "http://idi.bg/gallery/users/76/blogs/1386/Image/rare9b.jpg"
+    },
+    {
+      "word" : "прилеп",
+      "desc" : "летяща мишка",
+      "url" : "http://idi.bg/gallery/users/76/blogs/1386/Image/rare7.jpg"
+    },
+    {
+      "word" : "носорог",
+      "desc" : "африканско животно",
+      "url" : "http://idi.bg/gallery/users/76/blogs/1386/Image/rare6a.jpg"
+    }
+  ]
+}
+
+
+
